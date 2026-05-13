@@ -1,0 +1,261 @@
+Curriculum Vitae  
+Dr. Mostaque Md. Morshedur Hassan  
+AEC Road, Sundarbari  
+Jalukbari, Guwahati -14 
+Kamrup Metro (Assam)  
+Contact Details:  
+Mobile No. : +91-8638526521  
+Email : mostaq786@gmail.com  
+Profile Summary  
+A dedicated academic leader, AI researcher, and industry practitioner with 
+over 1 9 years of experience in higher education, research, and industry -
+integrated training. Currently rendering services as Director cum Founder 
+at Algoguido Technologies Pvt. Ltd.,  Guwahati,  leading initiatives in data 
+science, AI -driven solutions, and skill development through industry -
+oriented, project -based learning, while actively contributing to talent 
+mentoring and research -driven innovation.  
+Holding a PhD in Computer Science (Gauhati University, 2019)  and 
+pursuing a Post-Doctoral Fellowship  at Eudoxia Research University,  USA, 
+my research interests include AI, Machine Learning, Network Security and 
+GAN-based Image Generation . I have authored peer-reviewed papers, 
+books, and patents , and guided over  500 academic and industrial projects . 
+Bringing together academic leadership, research expertise, and corporate 
+exposure , I am committed to advancing innovation, quality education, and 
+effective academic governance.  
+Educational Qualification  
+• Post-Doctoral Fellow  (Pursuing ), Eudoxia Research University, USA  
+o Title of Research : Generation of Photorealistic Images using 
+Generative Adversarial Networks (GANs).  
+o Date of Registration : 4th August, 2023  
+ 
+• PhD, Gauhati University, Guwahati , 2019  
+o Title of Research : Network Intrusion Detection System Using 
+Genetic Algorithm and Fuzzy Logic.  
+• Master of Computer Application (MCA) , Allahabad Agricultural 
+Institute – Deemed University, Allahabad , 2006.  
+Research Interests  
+• Artificial Intelligence & Machine Learning (AI/ML)  
+• Deep Learning (GANs, Image Generation)  
+• Cybersecurity, Network Intrusion Detection, and Cloud Computing  
+• Health Informatics & Predictive Analytics  
+Professional Experience  
+• Director cum Founder – Algoguido Technologies Pvt. Ltd., 
+Guwahati  
+(202 6 January  – Present)  
+Academic Roles  
+• Principal Instructor  – Data Science , upGrad Education Pvt. Ltd., 
+Kolkata Centre  
+(September  2025 – December 2025 ) 
+(Academic Role with Corporate -Academic Exposure)  
+▪ Train and mentor learners to become job -ready Data Analysts 
+and Data Scientists through project -based, industry -aligned 
+instruction.  
+▪ Design and deliver modules on Python, Machine Learning, and 
+Data Visualization with emphasis on employability and applied 
+learning.  
+▪ Guide capstone projects aligned with current market and 
+technological trends.  
+▪ Serve as a Member of the Interview Panel for recruitment of 
+Data Analyst and Data Scientist Instructors.  
+• Assistant Professor  (Senior) , Department of Artificial 
+Intelligence & Machine Learning , Brainware University, Kolkata  
+(January 2025 to August  2025) (8 months)  
+• Assistant Professor , Faculty of Computer Technology, Assam 
+down town University, Guwahati  
+Appointed through iNurture Education Solutions Pvt. Ltd , 
+Bengaluru  
+(June 2022 to  December 2024 ) (About 2 years 7 months)  
+• Assistant Professor , Dept. of Computer Science & Engineering, 
+Scholars Institute of Technology & Management (SITM), 
+Guwahati  
+(March 2020 to May 2022) (About 2 years)  
+• Assistant Professor , Dept. of Computer Science, Lalit Chandra 
+Bharali College, Guwahati  
+(March 2008 to January 2020) (About 12 years)  
+• Assistant Professor , Dept. of Computer Science & Engineering, 
+IIES College, Guwahati  
+(November 2006 to February 2008) (About 1 year)  
+• Guest Faculty , IDOL, Gauhati University, Guwahati  
+(2 years)  
+• Course Coordinator , IGNOU (BCA , and MCA Programs)  
+(3 years)  
+Industrial Roles  
+• Industrial Trainer & Consultant : 
+o Mentored real -world projects for Rayan Infotech  and 
+Algoguido Technologies  Private Limited , focusing on 
+software development, web and mobile application 
+development, hosting services, and cloud solutions.  
+• Industry Expert – Computer Technology : 
+o Delivered outcome -based, industry -relevant education at 
+Assam down town University through iNurture Education 
+Solutions Pvt. Ltd. , integrating real -world expertise, 
+emerging technology trends, and project -based learning to 
+bridge the academia -industry gap with a strong focus on 
+employability and innovation.  
+Total Experience  
+• About 18 years (Academic & Industrial).  
+Research Contributions & Recognition  
+PhD Research  
+• Network Intrusion Detection System Using Genetic Algorithm and 
+Fuzzy Logic in the department of Faculty of Technology , Gauhati 
+University , Guwahati  under Prof. Hemanta Kr. Baruah, Former Vice -
+Chancellor, Bodoland University.  
+Post-Doctoral Research  
+• Generation of Photorealistic Images using GANs  with a focus on 
+enhancing image fidelity and resolving blurry image challenges.  
+Recent Publication s 
+• Journal : "  Energy efficient cyber -physical control of renewable 
+microgrids using edge -AI enabled IoT and secure blockchain 
+coordination ", Scientific  Reports (2026) , DOI:  https://doi. 
+org/10.1038/s41598 -026-50169 -y 
+• Journal : "CottonNet -MHA: A Model for Detecting Cotton Disease 
+Based on Deep Learning ", Frontiers in Plants Science, November 21, 
+2025, DOI: https://www.frontiersin.org/journals/plant -
+science/articles/10.3389/fpls.2025.1664242/full  
+Indexed in SCIE/Scopus , IF: 4.8 
+• Journal : "An Improved Hybrid Feature Selection and Classification 
+Framework for  Breast Cancer  Detection Using Mammography 
+Images ”, Ain Shams Engineering Journal, November, 2025 , DOI:  
+https://doi.org/10.1016/j.asej.2025.103897  
+Indexed in SCIE/Scopus , IF: 5.9 
+• Proceeding Paper : “Exploring the Future of Connectivity: A 
+Comprehensive Review of Wireless and Optical Communications” 
+(Accepted for Publication ) 
+ 
+Publications  
+• Journal : “Current Studies on Intrusion Detection System, Genetic 
+Algorithm and Fuzzy Logic”, International Journal of Distributed and 
+Parallel Systems , 2013.  
+• Journal : “Network Intrusion Detection System using Genetic 
+Algorithm and Fuzzy Logic”, International Journal of Innovative 
+Research in Computer and Communication Engineering , 2013.  
+• Journal : “Fuzzy Classifier for IDS Alerts using Genetic Algorithm”, 
+International Journal of Research in Advent Technology (IJRAT) , 
+2014.  
+• Journal : “A Futuristic Approach for Security in Cloud Datacenters 
+using Hybrid Algorithm”, Eng. Proc., 2023. DOI: 
+https://doi.org/10.3390/engproc2023059047 . 
+• Journal : “Adopting AI in Methodological Practices: Transforming 
+Predictive Analytics in Health Research”, International Journal of 
+Medical Toxicology & Legal Medicine , 2024, DOI: 
+https://doi.org/10.47059/ijmtlm/V27I5/111  
+• Journal : "Predictive Modeling of Thyroid Cancer Risk and Recurrence 
+using Machine Learning Techniques in Otolaryngology (ENT)", Journal 
+of Neonatal Surgery, 2024, 13, 1624 -1632.  
+• Journal : "Detection And Recognition Method of Benign Skin Cancer 
+in Dermoscopic Images using Hybrid Feature Fusion Model", 
+Cuestiones de Fisioterapia, 2025, DOI: https://doi.org/10.48047/CU  
+• Journal : "A Study on Cryptographic Methods for Enhancing 
+Cybersecurity", International Journal of Mathematics and Statistics, 
+2025, DOI: https://doi.org/10.53555/eijms.v11i1.86  
+• Journal:  “Enhanced NIRMAL Optimizer with Damped Nesterov 
+Acceleration: A Comparative Analysis ”, arXiv:2508.16550v1 [cs.IR] 
+22 Aug 2025 . 
+• Journal : "CottonNet -MHA: A Model for Detecting Cotton Disease 
+Based on Deep Learning ", Frontiers in Plants Science, November, 
+2025, DOI: https://www.frontiersin.org/journals/plant -
+science/articles/10.3389/fpls.2025.1664242/full  
+• IEEE Conference  Publication : “Machine Learning Driven Islanding 
+Detection using Random Forest and Scalogram ”, 2025, 4th 
+International Conference on Distributed Computing and Electrical 
+Circuits and Electronics (ICDCECE), 2025,  
+DOI: 10.1109/ICDCECE65353.2025.11034970  
+• Book chapter : “Performance Evaluation of Deep Learning and 
+Machine Learning Methods for Prostate Cancer Detection”.  
+• Book chapter : “An Improved and Accurate Post Tagger Model for 
+the Hindi Language”.  
+• Book : “AI for Advanced Manufacturing and Industrial Applications”, 
+2025,  ISBN : 978-81-986993 -2-9 
+• Book : “Machine Learning and Artificial Intelligence Multidisciplinary 
+Concepts & Applications ”, 2025,  ISBN : 978-81-989673 -3-6 
+Communicated Papers  
+• Journal : “A QR Code -Driven Mobile Application for Modernizing 
+Library Operations: A Technical  Approach” ( Accepted ). 
+• Journal : “Realistic Image Generation from Blurry Images using GAN 
+Networks” ( Under review ). 
+• Journal : “Empowering Women through AI: Tools for Reporting and 
+Preventing Workplace Har assment ” (Under review ) 
+• Journal : “Energy Efficient Cyber -Physical Control of Renewable 
+Microgrids Using Edge -AI Enabled IoT and Secure Blockchain 
+Coordination ” (Under review ) 
+• Journal : “Feature Optimization and Classification Performance for 
+Prostate Cancer: Deep Learning vs Machine Learning Approaches ” 
+(Under review ) 
+Academic Project Guidance  
+• Guided 500+ projects in Web and Mobile Application Development , 
+Cybersecurity, and Software Engineering.  
+• Guided final semester projects  of MCA, and MSc IT courses of  
+KKHSOU, IDOL, and IGNOU  for Distance and Online Education . 
+ 
+Industrial Project Mentorship  
+• Mentored engineering and software development projects for:  
+o Algoguido Technologies : Data Science Projects , Web and 
+Mobile Applications, and Cloud Systems.  
+o Rayan Infotech : Real -time application development and 
+deployment strategies.  
+Patents  
+1. Indian Patent : “An Apparatus Based on Deep Learning for Real -
+Time Object Detection and Tracking in Video Surveillance” . 
+(Published)  
+2. Indian Design Patent : “Artificial Intelligence -Based Snail Capturing 
+Agriculture Machine”.  (Published)  
+3. Indian Design Patent : “Compact Intrusion Detecting Cybersecurity 
+System”. (Examination Report Generated ) 
+4. UK Design Patent : “Generation of Photo Realistic Images using GAN 
+Network”. (Filed)  
+5. UK Design Patent : “AI-Secured Biometric Crypto Wallet Device with 
+Quantum -Resistant Firmware ”. (Filed)  
+Administrative Support  
+Demonstrated strong leadership in academic and administrative capacities:  
+• Head of Department (HoD)  
+• IGNOU Course Coordinator  
+• NAAC Committee Technical Lead  
+• Timetable & Examination Committee Member  
+• Mentor for Smart India Hackathon  
+• Online Exam In -Charge at SITM during Covid p andemic  
+• Course Coordinator, IGNOU  at Lalit Chandra Bharali College, 
+Maligaon, Guwahati, responsible for coordinating MCA, and BCA 
+programs under distance and online education.  
+• Online Examination In -charge during the COVID period  – 
+Conducted end -semester examinations online for BCA and BTech 
+courses at Scholars Institute of Technology and Management under 
+Assam Science and Technology University.  
+• Smart India Hackathon Mentor  – Provided mentorship at Scholars 
+Institute of Technology and Management (SITM) and at Assam down 
+town University, Guwahati.  
+• Member, Time Table Preparation Committee  – Actively 
+contributed to time table preparation at SITM and at Assam down 
+town University, Guwahati.  
+• Head of the Department, BCA  – Served as the Departmental Head 
+for the BCA program at Scholars Institute of Technology and 
+Management, Guwahati.  
+• Technical Team In -charge, NAAC Committee  – Led the technical 
+team for the NAAC Committee at LCB College, Guwahati.  
+Technical Skills  
+• Programming : C, C++, Java, Python, Dart, Flutter.  
+• Frameworks : React JS, Next JS, Angular JS,  Django . 
+• Databases : MySQL, PostgreSQL, MongoDB.  
+• Cloud : AWS (EC2, S3, CloudFront, Elastic Beanstalk).  
+• Specializations : Web Development, Android Development, Data 
+Science, AI/ML Solutions, ICT Hardware Configuration, Networking.  
+Languages Known  
+• English, Hindi, Assamese, and Bengali  
+Personal Profile  
+Name    : Dr. Mostaque Md. Morshedur Hassan  
+ Date of Birth   : 11th May, 1978  
+ Father's Name   : Md. Soleman Haque  
+ Present Address  :  
+ 
+ 
+Mobile    : +91- 8638526521  
+ E- Mail   : mostaq786@gmail.com  
+Religion    : Islam  
+ Marital Status   : Married  
+ Nationality   : Indian  
+Declaration  
+I hereby declare that the above entries made in my CV are true to the best 
+of my knowledge.  
+Dr. Mostaque Md. Morshedur Hassan  
+Signature of the candidate  Ambika City  
+Jessore Road, Barasat, Kolkata  
+Pin - 700125  
