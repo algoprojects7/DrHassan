@@ -1,6 +1,7 @@
 import React from 'react';
 import type { Metadata, Viewport } from 'next';
 import { Nunito } from 'next/font/google';
+import { Analytics } from '@vercel/analytics/next';
 import '../styles/tailwind.css';
 
 const nunito = Nunito({
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${nunito.variable}`}>
       <body className={nunito.className}>
         {children}
+        <Analytics />
       </body>
     </html>
   );
