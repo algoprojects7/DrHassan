@@ -7,7 +7,7 @@ import Icon from '@/components/ui/AppIcon';
 const navLinks = [
   { label: 'About', href: '#about' },
   { label: 'Research', href: '#research' },
-  { label: 'Credentials', href: '#credentials' },
+  { label: 'Credentials (Education, Experience, Awards)', href: '#credentials' },
   { label: 'Expertise', href: '#teaching' },
   { label: 'News', href: '#news' },
   { label: 'Contact', href: '#contact' },
