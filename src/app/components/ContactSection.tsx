@@ -55,7 +55,10 @@ export default function ContactSection() {
   return (
     <section id="contact" className="py-24 px-6 relative">
       {/* Atmospheric glow */}
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 blob-primary pointer-events-none" aria-hidden="true" />
+      <div
+        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 blob-primary pointer-events-none"
+        aria-hidden="true"
+      />
 
       <div className="max-w-7xl mx-auto relative z-10">
         <div className="grid md:grid-cols-2 items-end gap-12 mb-16 section-reveal">
@@ -64,12 +67,12 @@ export default function ContactSection() {
               // Contact
             </span>
             <h2 className="font-display text-section-title font-bold text-foreground">
-              Get In{' '}
-              <span className="gradient-text-indigo">Touch</span>
+              Get In <span className="gradient-text-indigo">Touch</span>
             </h2>
           </div>
           <p className="text-muted-foreground leading-relaxed">
-            Open to research collaborations, academic invitations, industry partnerships, and speaking engagements.
+            Open to research collaborations, academic invitations, industry partnerships, and
+            speaking engagements.
           </p>
         </div>
 
@@ -85,7 +88,8 @@ export default function ContactSection() {
                   Message Received
                 </h3>
                 <p className="text-muted-foreground max-w-sm">
-                  Thank you for reaching out. Dr. Hassan will respond to your inquiry within 2–3 business days.
+                  Thank you for reaching out. Dr. Hassan will respond to your inquiry within 2–3
+                  business days.
                 </p>
                 <button
                   onClick={() => setSubmitted(false)}
@@ -194,18 +198,32 @@ export default function ContactSection() {
                 </h3>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
-                    <Icon name="BuildingOfficeIcon" size={16} className="text-accent mt-0.5 flex-shrink-0" />
+                    <Icon
+                      name="BuildingOfficeIcon"
+                      size={16}
+                      className="text-accent mt-0.5 flex-shrink-0"
+                    />
                     <div>
-                      <p className="text-sm font-medium text-foreground">Algoguido Technologies Pvt. Ltd.</p>
+                      <p className="text-sm font-medium text-foreground">
+                        Algoguido Technologies Pvt. Ltd.
+                      </p>
                       <p className="text-xs text-muted-foreground">Director cum Founder</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
-                    <Icon name="MapPinIcon" size={16} className="text-accent mt-0.5 flex-shrink-0" />
+                    <Icon
+                      name="MapPinIcon"
+                      size={16}
+                      className="text-accent mt-0.5 flex-shrink-0"
+                    />
                     <div>
                       <p className="text-sm font-medium text-foreground">Home Address</p>
-                      <p className="text-xs text-muted-foreground">AEC Road, Sundarbari, Jalukbari</p>
-                      <p className="text-xs text-muted-foreground">Guwahati - 14, Kamrup Metro (Assam)</p>
+                      <p className="text-xs text-muted-foreground">
+                        AEC Road, Sundarbari, Jalukbari
+                      </p>
+                      <p className="text-xs text-muted-foreground">
+                        Guwahati - 14, Kamrup Metro (Assam)
+                      </p>
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
@@ -242,7 +260,11 @@ export default function ContactSection() {
                         </p>
                         <p className="text-xs text-muted-foreground truncate">{link.handle}</p>
                       </div>
-                      <Icon name="ArrowTopRightOnSquareIcon" size={14} className="text-muted-foreground group-hover:text-accent transition-colors flex-shrink-0" />
+                      <Icon
+                        name="ArrowTopRightOnSquareIcon"
+                        size={14}
+                        className="text-muted-foreground group-hover:text-accent transition-colors flex-shrink-0"
+                      />
                     </a>
                   ))}
                 </div>

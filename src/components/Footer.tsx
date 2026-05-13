@@ -62,8 +62,14 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="text-xs text-muted-foreground font-medium flex items-center justify-center gap-1.5 mt-4 md:mt-0">
-          © {new Date().getFullYear()} Dr. Mostaque Hassan <span className="text-border mx-1">·</span>
-          <Link href="/privacy" className="hover:text-primary transition-colors hover:underline underline-offset-2">Privacy Policy</Link>
+          © {new Date().getFullYear()} Dr. Mostaque Hassan{' '}
+          <span className="text-border mx-1">·</span>
+          <Link
+            href="/privacy"
+            className="hover:text-primary transition-colors hover:underline underline-offset-2"
+          >
+            Privacy Policy
+          </Link>
         </p>
       </div>
     </footer>

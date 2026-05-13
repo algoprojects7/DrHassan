@@ -8,21 +8,24 @@ const credentials = [
     title: 'Post-Doctoral Fellowship (Pursuing)',
     institution: 'Eudoxia Research University, USA',
     period: '2023 – Present',
-    detail: 'Research focus: "Generation of Photorealistic Images using Generative Adversarial Networks (GANs)". Registered: 4th August 2023.',
+    detail:
+      'Research focus: "Generation of Photorealistic Images using Generative Adversarial Networks (GANs)". Registered: 4th August 2023.',
   },
   {
     type: 'education',
     title: 'PhD — Computer Science',
     institution: 'Gauhati University, Guwahati',
     period: '2019',
-    detail: 'Thesis: "Network Intrusion Detection System Using Genetic Algorithm and Fuzzy Logic". Specialization in AI, Network Security, and Fuzzy Logic Systems.',
+    detail:
+      'Thesis: "Network Intrusion Detection System Using Genetic Algorithm and Fuzzy Logic". Specialization in AI, Network Security, and Fuzzy Logic Systems.',
   },
   {
     type: 'education',
     title: 'Master of Computer Application (MCA)',
     institution: 'Allahabad Agricultural Institute – Deemed University, Allahabad',
     period: '2006',
-    detail: 'Advanced coursework in algorithms, data structures, software engineering, and computer applications.',
+    detail:
+      'Advanced coursework in algorithms, data structures, software engineering, and computer applications.',
   },
 ];
 
@@ -31,28 +34,32 @@ const awards = [
     title: '5 Patents — Indian & UK',
     body: 'Indian Patent Office & UK IPO',
     year: '2023–Present',
-    detail: '2 Indian patents published, 1 under examination, 2 UK design patents filed — covering AI, cybersecurity, and GAN-based image generation.',
+    detail:
+      '2 Indian patents published, 1 under examination, 2 UK design patents filed — covering AI, cybersecurity, and GAN-based image generation.',
     icon: 'TrophyIcon',
   },
   {
     title: 'Books Authored — 2025',
     body: 'RDG Scientific Publications',
     year: '2025',
-    detail: 'Authored 2 academic books: "AI for Advanced Manufacturing" (ISBN: 978-81-986993-2-9) and "ML & AI: Multidisciplinary Concepts" (ISBN: 978-81-989673-3-6).',
+    detail:
+      'Authored 2 academic books: "AI for Advanced Manufacturing" (ISBN: 978-81-986993-2-9) and "ML & AI: Multidisciplinary Concepts" (ISBN: 978-81-989673-3-6).',
     icon: 'BookOpenIcon',
   },
   {
     title: 'SCIE/Scopus Publications',
     body: 'Frontiers in Plant Science · Ain Shams Engineering Journal · Scientific Reports',
     year: '2025–2026',
-    detail: 'Published in high-impact SCIE/Scopus-indexed journals: Frontiers in Plant Science (IF: 4.8), Ain Shams Engineering Journal (IF: 5.9), and Scientific Reports (IF: 3.9).',
+    detail:
+      'Published in high-impact SCIE/Scopus-indexed journals: Frontiers in Plant Science (IF: 4.8), Ain Shams Engineering Journal (IF: 5.9), and Scientific Reports (IF: 3.9).',
     icon: 'StarIcon',
   },
   {
     title: '157+ Google Scholar Citations',
     body: 'Google Scholar',
     year: '2026',
-    detail: 'Cumulative academic citation count reflecting research impact across AI, network security, and health informatics domains.',
+    detail:
+      'Cumulative academic citation count reflecting research impact across AI, network security, and health informatics domains.',
     icon: 'PresentationChartBarIcon',
   },
 ];
@@ -142,8 +149,7 @@ export default function CredentialsSection() {
             // Credentials
           </span>
           <h2 className="font-display text-section-title font-bold text-foreground">
-            Academic Credentials,{' '}
-            <span className="gradient-text-cyan">Awards & Experience</span>
+            Academic Credentials, <span className="gradient-text-cyan">Awards & Experience</span>
           </h2>
         </div>
 
@@ -168,8 +174,12 @@ export default function CredentialsSection() {
                     </div>
                     <div className="flex-1">
                       <div className="flex items-start justify-between gap-3 mb-1">
-                        <h4 className="font-semibold text-foreground text-sm leading-snug">{c.title}</h4>
-                        <span className="text-xs text-muted-foreground flex-shrink-0">{c.period}</span>
+                        <h4 className="font-semibold text-foreground text-sm leading-snug">
+                          {c.title}
+                        </h4>
+                        <span className="text-xs text-muted-foreground flex-shrink-0">
+                          {c.period}
+                        </span>
                       </div>
                       <p className="text-xs text-accent font-medium mb-1">{c.institution}</p>
                       <p className="text-xs text-muted-foreground">{c.detail}</p>
@@ -193,10 +203,18 @@ export default function CredentialsSection() {
                     style={{ transitionDelay: `${i * 0.1}s` }}
                   >
                     <div className="flex items-start gap-3 mb-3">
-                      <Icon name={a.icon as 'TrophyIcon'} size={18} className="text-accent flex-shrink-0 mt-0.5" />
+                      <Icon
+                        name={a.icon as 'TrophyIcon'}
+                        size={18}
+                        className="text-accent flex-shrink-0 mt-0.5"
+                      />
                       <div>
-                        <h4 className="font-semibold text-foreground text-sm leading-snug">{a.title}</h4>
-                        <p className="text-xs text-accent mt-0.5">{a.body} · {a.year}</p>
+                        <h4 className="font-semibold text-foreground text-sm leading-snug">
+                          {a.title}
+                        </h4>
+                        <p className="text-xs text-accent mt-0.5">
+                          {a.body} · {a.year}
+                        </p>
                       </div>
                     </div>
                     <p className="text-xs text-muted-foreground leading-relaxed pl-7">{a.detail}</p>
@@ -217,7 +235,9 @@ export default function CredentialsSection() {
                 {experience.map((e, i) => (
                   <div key={i} className="glass-card-navy rounded-xl p-5">
                     <div className="flex items-start justify-between gap-3 mb-2">
-                      <h4 className="font-display font-semibold text-foreground text-sm leading-snug">{e.role}</h4>
+                      <h4 className="font-display font-semibold text-foreground text-sm leading-snug">
+                        {e.role}
+                      </h4>
                       <span className="px-2 py-0.5 bg-primary/20 border border-primary/30 text-xs font-bold text-primary rounded-full flex-shrink-0">
                         {e.type}
                       </span>
@@ -227,8 +247,12 @@ export default function CredentialsSection() {
                     <div className="hud-line mb-2 w-16" />
                     <p className="text-xs text-muted-foreground leading-relaxed">{e.detail}</p>
                     <div className="flex items-center gap-2 mt-3">
-                      <div className={`w-1.5 h-1.5 rounded-full ${e.period === 'Current' ? 'bg-accent animate-pulseGlow' : 'bg-muted-foreground'}`} />
-                      <span className="text-xs font-bold uppercase tracking-widest text-muted-foreground">{e.period}</span>
+                      <div
+                        className={`w-1.5 h-1.5 rounded-full ${e.period === 'Current' ? 'bg-accent animate-pulseGlow' : 'bg-muted-foreground'}`}
+                      />
+                      <span className="text-xs font-bold uppercase tracking-widest text-muted-foreground">
+                        {e.period}
+                      </span>
                     </div>
                   </div>
                 ))}

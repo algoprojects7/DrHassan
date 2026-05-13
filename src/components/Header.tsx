@@ -29,7 +29,9 @@ export default function Header() {
     } else {
       document.body.style.overflow = '';
     }
-    return () => { document.body.style.overflow = ''; };
+    return () => {
+      document.body.style.overflow = '';
+    };
   }, [menuOpen]);
 
   const handleNavClick = () => setMenuOpen(false);
@@ -38,8 +40,7 @@ export default function Header() {
     <>
       <header
         className={`fixed top-0 left-0 w-full z-50 transition-all duration-500 ${
-          scrolled
-            ? 'bg-background/90 backdrop-blur-xl border-b border-border' :'bg-transparent'
+          scrolled ? 'bg-background/90 backdrop-blur-xl border-b border-border' : 'bg-transparent'
         }`}
       >
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
