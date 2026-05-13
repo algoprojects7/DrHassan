@@ -58,12 +58,30 @@ const skills = [
 ];
 
 const techTags = [
-  'Python', 'Java', 'C', 'C++', 'Dart', 'Flutter',
-  'React JS', 'Next JS', 'Nest JS', 'Angular JS', 'Django',
-  'MySQL', 'PostgreSQL', 'MongoDB',
-  'AWS EC2', 'AWS S3', 'CloudFront', 'Elastic Beanstalk',
-  'TensorFlow', 'Keras', 'Scikit-learn',
-  'Android Dev', 'Web Dev', 'LaTeX',
+  'Python',
+  'Java',
+  'C',
+  'C++',
+  'Dart',
+  'Flutter',
+  'React JS',
+  'Next JS',
+  'Nest JS',
+  'Angular JS',
+  'Django',
+  'MySQL',
+  'PostgreSQL',
+  'MongoDB',
+  'AWS EC2',
+  'AWS S3',
+  'CloudFront',
+  'Elastic Beanstalk',
+  'TensorFlow',
+  'Keras',
+  'Scikit-learn',
+  'Android Dev',
+  'Web Dev',
+  'LaTeX',
 ];
 
 export default function TeachingSkillsSection() {
@@ -77,12 +95,13 @@ export default function TeachingSkillsSection() {
               // Teaching
             </span>
             <h2 className="font-display text-section-title font-bold text-foreground">
-              Courses &{' '}
-              <span className="gradient-text-indigo">Expertise</span>
+              Courses & <span className="gradient-text-indigo">Expertise</span>
             </h2>
           </div>
           <p className="text-foreground font-medium leading-relaxed">
-            Teaching undergraduate and postgraduate students across AI, data science, deep learning, network security, and cloud computing. Guided 500+ academic and industrial projects, including final semester projects for MCA and MSc IT courses (KKHSOU, IDOL, and IGNOU).
+            Teaching undergraduate and postgraduate students across AI, data science, deep learning,
+            network security, and cloud computing. Guided 500+ academic and industrial projects,
+            including final semester projects for MCA and MSc IT courses (KKHSOU, IDOL, and IGNOU).
           </p>
         </div>
 
@@ -99,12 +118,16 @@ export default function TeachingSkillsSection() {
                   <Icon name={course.icon as 'CpuChipIcon'} size={20} className="text-accent" />
                 </div>
                 <div className="text-right">
-                  <span className="text-xs font-bold font-mono text-muted-foreground">{course.code}</span>
+                  <span className="text-xs font-bold font-mono text-muted-foreground">
+                    {course.code}
+                  </span>
                   <p className="text-xs text-muted-foreground/60">{course.level}</p>
                 </div>
               </div>
               <div>
-                <h3 className="font-display font-semibold text-foreground text-base mb-2">{course.title}</h3>
+                <h3 className="font-display font-semibold text-foreground text-base mb-2">
+                  {course.title}
+                </h3>
                 <p className="text-xs text-muted-foreground leading-relaxed">{course.desc}</p>
               </div>
               <div className="hud-line mt-auto" />
@@ -119,11 +142,11 @@ export default function TeachingSkillsSection() {
               // Skills
             </span>
             <h2 className="font-display text-4xl font-bold text-foreground mb-6 leading-tight">
-              Research &{' '}
-              <span className="gradient-text-cyan">Technical Skills</span>
+              Research & <span className="gradient-text-cyan">Technical Skills</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              A blend of deep theoretical knowledge and practical engineering skills developed over 18+ years of academic research, industrial training, and technology entrepreneurship.
+              A blend of deep theoretical knowledge and practical engineering skills developed over
+              18+ years of academic research, industrial training, and technology entrepreneurship.
             </p>
             <div className="flex flex-wrap gap-3">
               {techTags.map((tag) => (

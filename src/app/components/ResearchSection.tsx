@@ -23,7 +23,8 @@ const publications: Publication[] = [
     id: 0,
     year: '2026',
     type: 'Journal Article',
-    title: 'Energy Efficient Cyber-Physical Control of Renewable Microgrids Using Edge-AI Enabled IoT and Secure Blockchain Coordination',
+    title:
+      'Energy Efficient Cyber-Physical Control of Renewable Microgrids Using Edge-AI Enabled IoT and Secure Blockchain Coordination',
     journal: 'Scientific Reports (IF: 3.9)',
     authors: 'Dr. Mostaque Hassan, et al.',
     doi: '10.1038/s41598-026-50169-y',
@@ -31,7 +32,8 @@ const publications: Publication[] = [
     tags: ['Microgrids', 'Edge-AI', 'IoT', 'Blockchain'],
     featured: true,
     citations: 0,
-    abstract: 'This paper introduces an energy-efficient cyber-physical control framework for renewable microgrids, leveraging edge-AI enabled IoT devices and ensuring secure coordination through blockchain technology.',
+    abstract:
+      'This paper introduces an energy-efficient cyber-physical control framework for renewable microgrids, leveraging edge-AI enabled IoT devices and ensuring secure coordination through blockchain technology.',
   },
   {
     id: 1,
@@ -52,7 +54,8 @@ const publications: Publication[] = [
     id: 2,
     year: '2025',
     type: 'Journal Article',
-    title: 'An Improved Hybrid Feature Selection and Classification Framework for Breast Cancer Detection Using Mammography Images',
+    title:
+      'An Improved Hybrid Feature Selection and Classification Framework for Breast Cancer Detection Using Mammography Images',
     journal: 'Ain Shams Engineering Journal (SCIE/Scopus, IF: 5.9)',
     authors: 'Hassan, M.M.M. et al.',
     doi: '10.1016/j.asej.2025.103897',
@@ -67,7 +70,8 @@ const publications: Publication[] = [
     id: 3,
     year: '2025',
     type: 'Journal Article',
-    title: 'Detection And Recognition Method of Benign Skin Cancer in Dermoscopic Images using Hybrid Feature Fusion Model',
+    title:
+      'Detection And Recognition Method of Benign Skin Cancer in Dermoscopic Images using Hybrid Feature Fusion Model',
     journal: 'Cuestiones de Fisioterapia',
     authors: 'Hassan, M.M.M. et al.',
     doi: '10.48047/CU',
@@ -113,7 +117,8 @@ const publications: Publication[] = [
     year: '2025',
     type: 'Conference',
     title: 'Machine Learning Driven Islanding Detection using Random Forest and Scalogram',
-    journal: '4th Intl. Conf. on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)',
+    journal:
+      '4th Intl. Conf. on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)',
     authors: 'Hassan, M.M.M. et al.',
     doi: '10.1109/ICDCECE65353.2025.11034970',
     url: 'https://doi.org/10.1109/ICDCECE65353.2025.11034970',
@@ -142,7 +147,8 @@ const publications: Publication[] = [
     id: 8,
     year: '2025',
     type: 'Book',
-    title: 'Machine Learning and Artificial Intelligence: Multidisciplinary Concepts & Applications',
+    title:
+      'Machine Learning and Artificial Intelligence: Multidisciplinary Concepts & Applications',
     journal: 'Academic Publication',
     authors: 'Hassan, M.M.M. et al.',
     doi: 'ISBN: 978-81-989673-3-6',
@@ -157,7 +163,8 @@ const publications: Publication[] = [
     id: 9,
     year: '2025',
     type: 'Book Chapter',
-    title: 'Exploring the Future of Connectivity: A Comprehensive Review of Wireless and Optical Communications',
+    title:
+      'Exploring the Future of Connectivity: A Comprehensive Review of Wireless and Optical Communications',
     journal: 'Data-Driven AI: A Multidisciplinary Approach (Routledge, ISBN: 9781041272366)',
     authors: 'Hassan, M.M.M., Barbhuyan, M.F.K., Wheeb, A.H., Ray, A.',
     doi: 'ISBN: 9781041272366',
@@ -172,7 +179,8 @@ const publications: Publication[] = [
     id: 10,
     year: '2025',
     type: 'Book Chapter',
-    title: 'Performance Evaluation of Deep Learning and Machine Learning Methods for Prostate Cancer Detection',
+    title:
+      'Performance Evaluation of Deep Learning and Machine Learning Methods for Prostate Cancer Detection',
     journal: 'Academic Book Chapter',
     authors: 'Hassan, M.M.M. et al.',
     doi: '',
@@ -202,8 +210,10 @@ const publications: Publication[] = [
     id: 12,
     year: '2024',
     type: 'Journal Article',
-    title: 'Adopting AI in Methodological Practices: Transforming Predictive Analytics in Health Research',
-    journal: 'International Journal of Medical Toxicology & Legal Medicine, Vol. 27, Issue 5, Art. 111',
+    title:
+      'Adopting AI in Methodological Practices: Transforming Predictive Analytics in Health Research',
+    journal:
+      'International Journal of Medical Toxicology & Legal Medicine, Vol. 27, Issue 5, Art. 111',
     authors: 'Hassan, M.M.M. et al.',
     doi: '10.47059/ijmtlm/V27I5/111',
     url: 'https://doi.org/10.47059/ijmtlm/V27I5/111',
@@ -217,7 +227,8 @@ const publications: Publication[] = [
     id: 13,
     year: '2024',
     type: 'Journal Article',
-    title: 'Predictive Modeling of Thyroid Cancer Risk and Recurrence using Machine Learning Techniques in Otolaryngology (ENT)',
+    title:
+      'Predictive Modeling of Thyroid Cancer Risk and Recurrence using Machine Learning Techniques in Otolaryngology (ENT)',
     journal: 'Journal of Neonatal Surgery, Vol. 13, pp. 1624–1632',
     authors: 'Hassan, M.M.M. et al.',
     doi: '',
@@ -247,7 +258,8 @@ const publications: Publication[] = [
     id: 15,
     year: '2023',
     type: 'Patent',
-    title: 'An Apparatus Based on Deep Learning for Real-Time Object Detection and Tracking in Video Surveillance',
+    title:
+      'An Apparatus Based on Deep Learning for Real-Time Object Detection and Tracking in Video Surveillance',
     journal: 'Indian Patent Office — Published',
     authors: 'Hassan, M.M.M. et al.',
     doi: 'Indian Patent — Published',
@@ -338,7 +350,8 @@ const publications: Publication[] = [
     year: '2013',
     type: 'Journal Article',
     title: 'Network Intrusion Detection System using Genetic Algorithm and Fuzzy Logic',
-    journal: 'International Journal of Innovative Research in Computer and Communication Engineering',
+    journal:
+      'International Journal of Innovative Research in Computer and Communication Engineering',
     authors: 'Hassan, M.M.M.',
     doi: '',
     url: '#',
@@ -367,7 +380,8 @@ const publications: Publication[] = [
     id: 23,
     year: '2025',
     type: 'Journal Article',
-    title: 'A QR Code-Driven Mobile Application for Modernizing Library Operations: A Technical Approach',
+    title:
+      'A QR Code-Driven Mobile Application for Modernizing Library Operations: A Technical Approach',
     journal: 'Communicated (Accepted)',
     authors: 'Hassan, M.M.M. et al.',
     doi: '',
@@ -375,7 +389,8 @@ const publications: Publication[] = [
     tags: ['Mobile App', 'Library Operations'],
     featured: false,
     citations: 0,
-    abstract: 'A QR code-driven mobile application designed to modernize and streamline library operations using technical approaches for better asset management.',
+    abstract:
+      'A QR code-driven mobile application designed to modernize and streamline library operations using technical approaches for better asset management.',
   },
   {
     id: 24,
@@ -389,7 +404,8 @@ const publications: Publication[] = [
     tags: ['GANs', 'Image Generation', 'Deep Learning'],
     featured: false,
     citations: 0,
-    abstract: 'This paper proposes a GAN-based network architecture for generating realistic, high-fidelity images from blurry inputs, improving visual clarity.',
+    abstract:
+      'This paper proposes a GAN-based network architecture for generating realistic, high-fidelity images from blurry inputs, improving visual clarity.',
   },
   {
     id: 25,
@@ -403,13 +419,15 @@ const publications: Publication[] = [
     tags: ['AI', 'Social Computing'],
     featured: false,
     citations: 0,
-    abstract: 'This study presents AI-driven tools aimed at empowering women by providing secure, intelligent mechanisms for reporting and preventing workplace harassment.',
+    abstract:
+      'This study presents AI-driven tools aimed at empowering women by providing secure, intelligent mechanisms for reporting and preventing workplace harassment.',
   },
   {
     id: 26,
     year: '2025',
     type: 'Journal Article',
-    title: 'Energy Efficient Cyber-Physical Control of Renewable Microgrids Using Edge-AI Enabled IoT and Secure Blockchain Coordination',
+    title:
+      'Energy Efficient Cyber-Physical Control of Renewable Microgrids Using Edge-AI Enabled IoT and Secure Blockchain Coordination',
     journal: 'Communicated (Under review)',
     authors: 'Hassan, M.M.M. et al.',
     doi: '',
@@ -417,13 +435,15 @@ const publications: Publication[] = [
     tags: ['Edge AI', 'IoT', 'Blockchain', 'Microgrids'],
     featured: false,
     citations: 0,
-    abstract: 'This research develops a cyber-physical control system for renewable microgrids that integrates Edge-AI enabled IoT and secure blockchain coordination.',
+    abstract:
+      'This research develops a cyber-physical control system for renewable microgrids that integrates Edge-AI enabled IoT and secure blockchain coordination.',
   },
   {
     id: 27,
     year: '2025',
     type: 'Journal Article',
-    title: 'Feature Optimization and Classification Performance for Prostate Cancer: Deep Learning vs Machine Learning Approaches',
+    title:
+      'Feature Optimization and Classification Performance for Prostate Cancer: Deep Learning vs Machine Learning Approaches',
     journal: 'Communicated (Under review)',
     authors: 'Hassan, M.M.M. et al.',
     doi: '',
@@ -431,7 +451,8 @@ const publications: Publication[] = [
     tags: ['Machine Learning', 'Deep Learning', 'Health Informatics'],
     featured: false,
     citations: 0,
-    abstract: 'This paper evaluates feature optimization and classification performance for prostate cancer detection, comparing deep learning approaches against classical machine learning models.',
+    abstract:
+      'This paper evaluates feature optimization and classification performance for prostate cancer detection, comparing deep learning approaches against classical machine learning models.',
   },
 ];
 
@@ -463,7 +484,20 @@ const typeColors: Record<string, { badge: string; accent: string; icon: string }
   },
 };
 
-const ALL_TOPICS = ['All Topics', 'AI', 'Deep Learning', 'Cloud Security', 'Wireless', 'Health Informatics', 'Agriculture AI', 'Intrusion Detection', 'Cybersecurity', 'GANs', 'Machine Learning', 'NLP'];
+const ALL_TOPICS = [
+  'All Topics',
+  'AI',
+  'Deep Learning',
+  'Cloud Security',
+  'Wireless',
+  'Health Informatics',
+  'Agriculture AI',
+  'Intrusion Detection',
+  'Cybersecurity',
+  'GANs',
+  'Machine Learning',
+  'NLP',
+];
 const ALL_TYPES = ['All Types', 'Journal Article', 'Book Chapter', 'Book', 'Conference', 'Patent'];
 
 export default function ResearchSection() {
@@ -475,7 +509,9 @@ export default function ResearchSection() {
   const [showAll, setShowAll] = useState(false);
 
   const years = useMemo(() => {
-    const uniqueYears = Array.from(new Set(publications.map((p) => p.year))).sort((a, b) => Number(b) - Number(a));
+    const uniqueYears = Array.from(new Set(publications.map((p) => p.year))).sort(
+      (a, b) => Number(b) - Number(a)
+    );
     return ['All Years', ...uniqueYears];
   }, []);
 
@@ -514,13 +550,13 @@ export default function ResearchSection() {
               // Research
             </span>
             <h2 className="font-display text-section-title font-bold text-foreground">
-              Publications &amp;{' '}
-              <span className="gradient-text-indigo">Research</span>
+              Publications &amp; <span className="gradient-text-indigo">Research</span>
             </h2>
           </div>
           <div>
             <p className="text-foreground font-medium leading-relaxed mb-4">
-              Peer-reviewed journals (SCIE/Scopus), book chapters, conference proceedings, and filed patents spanning AI, deep learning, cloud security, and health informatics.
+              Peer-reviewed journals (SCIE/Scopus), book chapters, conference proceedings, and filed
+              patents spanning AI, deep learning, cloud security, and health informatics.
             </p>
             <div className="flex flex-wrap items-center gap-4 md:gap-6">
               <div className="text-center">
@@ -548,7 +584,11 @@ export default function ResearchSection() {
           </span>
           <div className="grid md:grid-cols-3 gap-6">
             {featured.map((pub, i) => {
-              const colors = typeColors[pub.type] ?? { badge: 'bg-muted text-muted-foreground border-border', accent: 'from-muted/40 to-muted/10', icon: 'DocumentTextIcon' };
+              const colors = typeColors[pub.type] ?? {
+                badge: 'bg-muted text-muted-foreground border-border',
+                accent: 'from-muted/40 to-muted/10',
+                icon: 'DocumentTextIcon',
+              };
               const isExpanded = expandedId === pub.id;
               return (
                 <div
@@ -561,7 +601,9 @@ export default function ResearchSection() {
                   <div className="p-7 flex flex-col flex-1">
                     {/* Type + Year */}
                     <div className="flex items-start justify-between gap-3 mb-4">
-                      <span className={`px-2.5 py-1 rounded-full text-xs font-bold border ${colors.badge}`}>
+                      <span
+                        className={`px-2.5 py-1 rounded-full text-xs font-bold border ${colors.badge}`}
+                      >
                         {pub.type}
                       </span>
                       <span className="text-xs font-bold text-muted-foreground bg-muted px-2 py-1 rounded-md">
@@ -575,13 +617,17 @@ export default function ResearchSection() {
                     </h3>
 
                     {/* Authors */}
-                    <p className="text-xs text-muted-foreground leading-relaxed mb-2">{pub.authors}</p>
+                    <p className="text-xs text-muted-foreground leading-relaxed mb-2">
+                      {pub.authors}
+                    </p>
 
                     {/* Journal */}
                     <p className="text-xs text-accent/80 font-medium mb-4">{pub.journal}</p>
 
                     {/* Abstract (expandable) */}
-                    <div className={`overflow-hidden transition-all duration-300 ${isExpanded ? 'max-h-48' : 'max-h-0'}`}>
+                    <div
+                      className={`overflow-hidden transition-all duration-300 ${isExpanded ? 'max-h-48' : 'max-h-0'}`}
+                    >
                       <p className="text-xs text-muted-foreground leading-relaxed mb-4 border-l-2 border-accent/40 pl-3">
                         {pub.abstract}
                       </p>
@@ -590,7 +636,10 @@ export default function ResearchSection() {
                     {/* Tags */}
                     <div className="flex flex-wrap gap-1.5 mb-4">
                       {pub.tags.map((tag) => (
-                        <span key={tag} className="text-xs px-2 py-0.5 bg-muted rounded text-muted-foreground">
+                        <span
+                          key={tag}
+                          className="text-xs px-2 py-0.5 bg-muted rounded text-muted-foreground"
+                        >
                           {tag}
                         </span>
                       ))}
@@ -649,7 +698,11 @@ export default function ResearchSection() {
           <div className="flex flex-col md:flex-row gap-4">
             {/* Search */}
             <div className="relative flex-1">
-              <Icon name="MagnifyingGlassIcon" size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" />
+              <Icon
+                name="MagnifyingGlassIcon"
+                size={16}
+                className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground"
+              />
               <input
                 type="text"
                 placeholder="Search by title, author, keyword…"
@@ -674,7 +727,9 @@ export default function ResearchSection() {
               className="bg-muted/50 border border-border rounded-xl px-4 py-2.5 text-sm text-foreground focus:outline-none focus:border-accent/60 transition-colors cursor-pointer"
             >
               {years.map((y) => (
-                <option key={y} value={y}>{y}</option>
+                <option key={y} value={y}>
+                  {y}
+                </option>
               ))}
             </select>
 
@@ -685,7 +740,9 @@ export default function ResearchSection() {
               className="bg-muted/50 border border-border rounded-xl px-4 py-2.5 text-sm text-foreground focus:outline-none focus:border-accent/60 transition-colors cursor-pointer"
             >
               {ALL_TOPICS.map((t) => (
-                <option key={t} value={t}>{t}</option>
+                <option key={t} value={t}>
+                  {t}
+                </option>
               ))}
             </select>
 
@@ -696,41 +753,59 @@ export default function ResearchSection() {
               className="bg-muted/50 border border-border rounded-xl px-4 py-2.5 text-sm text-foreground focus:outline-none focus:border-accent/60 transition-colors cursor-pointer"
             >
               {ALL_TYPES.map((t) => (
-                <option key={t} value={t}>{t}</option>
+                <option key={t} value={t}>
+                  {t}
+                </option>
               ))}
             </select>
           </div>
 
           {/* Active filter chips */}
-          {(selectedYear !== 'All Years' || selectedTopic !== 'All Topics' || selectedType !== 'All Types' || searchQuery) && (
+          {(selectedYear !== 'All Years' ||
+            selectedTopic !== 'All Topics' ||
+            selectedType !== 'All Types' ||
+            searchQuery) && (
             <div className="flex flex-wrap items-center gap-2 mt-4 pt-4 border-t border-border">
               <span className="text-xs text-muted-foreground">Active filters:</span>
               {searchQuery && (
                 <span className="flex items-center gap-1 text-xs bg-accent/10 text-accent border border-accent/20 px-2.5 py-1 rounded-full">
                   &ldquo;{searchQuery}&rdquo;
-                  <button onClick={() => setSearchQuery('')}><Icon name="XMarkIcon" size={11} /></button>
+                  <button onClick={() => setSearchQuery('')}>
+                    <Icon name="XMarkIcon" size={11} />
+                  </button>
                 </span>
               )}
               {selectedYear !== 'All Years' && (
                 <span className="flex items-center gap-1 text-xs bg-primary/10 text-primary border border-primary/20 px-2.5 py-1 rounded-full">
                   {selectedYear}
-                  <button onClick={() => setSelectedYear('All Years')}><Icon name="XMarkIcon" size={11} /></button>
+                  <button onClick={() => setSelectedYear('All Years')}>
+                    <Icon name="XMarkIcon" size={11} />
+                  </button>
                 </span>
               )}
               {selectedTopic !== 'All Topics' && (
                 <span className="flex items-center gap-1 text-xs bg-primary/10 text-primary border border-primary/20 px-2.5 py-1 rounded-full">
                   {selectedTopic}
-                  <button onClick={() => setSelectedTopic('All Topics')}><Icon name="XMarkIcon" size={11} /></button>
+                  <button onClick={() => setSelectedTopic('All Topics')}>
+                    <Icon name="XMarkIcon" size={11} />
+                  </button>
                 </span>
               )}
               {selectedType !== 'All Types' && (
                 <span className="flex items-center gap-1 text-xs bg-primary/10 text-primary border border-primary/20 px-2.5 py-1 rounded-full">
                   {selectedType}
-                  <button onClick={() => setSelectedType('All Types')}><Icon name="XMarkIcon" size={11} /></button>
+                  <button onClick={() => setSelectedType('All Types')}>
+                    <Icon name="XMarkIcon" size={11} />
+                  </button>
                 </span>
               )}
               <button
-                onClick={() => { setSearchQuery(''); setSelectedYear('All Years'); setSelectedTopic('All Topics'); setSelectedType('All Types'); }}
+                onClick={() => {
+                  setSearchQuery('');
+                  setSelectedYear('All Years');
+                  setSelectedTopic('All Topics');
+                  setSelectedType('All Types');
+                }}
                 className="text-xs text-muted-foreground hover:text-foreground transition-colors ml-1 underline underline-offset-2"
               >
                 Clear all
@@ -758,10 +833,19 @@ export default function ResearchSection() {
 
           {filtered.length === 0 ? (
             <div className="glass-card rounded-2xl p-12 text-center">
-              <Icon name="MagnifyingGlassIcon" size={32} className="text-muted-foreground mx-auto mb-3" />
+              <Icon
+                name="MagnifyingGlassIcon"
+                size={32}
+                className="text-muted-foreground mx-auto mb-3"
+              />
               <p className="text-muted-foreground text-sm">No publications match your filters.</p>
               <button
-                onClick={() => { setSearchQuery(''); setSelectedYear('All Years'); setSelectedTopic('All Topics'); setSelectedType('All Types'); }}
+                onClick={() => {
+                  setSearchQuery('');
+                  setSelectedYear('All Years');
+                  setSelectedTopic('All Topics');
+                  setSelectedType('All Types');
+                }}
                 className="mt-3 text-xs text-accent hover:text-foreground transition-colors underline underline-offset-2"
               >
                 Clear filters
@@ -770,7 +854,11 @@ export default function ResearchSection() {
           ) : (
             <div className="glass-card rounded-2xl overflow-hidden">
               {displayList.map((pub, i) => {
-                const colors = typeColors[pub.type] ?? { badge: 'bg-muted text-muted-foreground border-border', accent: 'from-muted/40 to-muted/10', icon: 'DocumentTextIcon' };
+                const colors = typeColors[pub.type] ?? {
+                  badge: 'bg-muted text-muted-foreground border-border',
+                  accent: 'from-muted/40 to-muted/10',
+                  icon: 'DocumentTextIcon',
+                };
                 const isExpanded = expandedId === pub.id;
                 return (
                   <div
@@ -792,7 +880,9 @@ export default function ResearchSection() {
                         <p className="text-xs text-muted-foreground/60">{pub.journal}</p>
 
                         {/* Expandable abstract */}
-                        <div className={`overflow-hidden transition-all duration-300 ${isExpanded ? 'max-h-40 mt-3' : 'max-h-0'}`}>
+                        <div
+                          className={`overflow-hidden transition-all duration-300 ${isExpanded ? 'max-h-40 mt-3' : 'max-h-0'}`}
+                        >
                           <p className="text-xs text-muted-foreground leading-relaxed border-l-2 border-accent/40 pl-3">
                             {pub.abstract}
                           </p>
@@ -813,9 +903,13 @@ export default function ResearchSection() {
                             className="flex items-center gap-1 text-xs text-accent hover:text-foreground transition-colors font-medium"
                           >
                             {isExpanded ? (
-                              <><Icon name="ChevronUpIcon" size={12} /> Hide abstract</>
+                              <>
+                                <Icon name="ChevronUpIcon" size={12} /> Hide abstract
+                              </>
                             ) : (
-                              <><Icon name="ChevronDownIcon" size={12} /> Show abstract</>
+                              <>
+                                <Icon name="ChevronDownIcon" size={12} /> Show abstract
+                              </>
                             )}
                           </button>
                           {/* DOI */}
@@ -835,7 +929,9 @@ export default function ResearchSection() {
                       </div>
 
                       {/* Type badge */}
-                      <span className={`px-2 py-0.5 rounded-full text-xs font-bold border flex-shrink-0 ${colors.badge}`}>
+                      <span
+                        className={`px-2 py-0.5 rounded-full text-xs font-bold border flex-shrink-0 ${colors.badge}`}
+                      >
                         {pub.type}
                       </span>
                     </div>
@@ -851,9 +947,14 @@ export default function ResearchSection() {
                     className="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-accent hover:text-foreground transition-colors"
                   >
                     {showAll ? (
-                      <><Icon name="ChevronUpIcon" size={14} /> Show less</>
+                      <>
+                        <Icon name="ChevronUpIcon" size={14} /> Show less
+                      </>
                     ) : (
-                      <><Icon name="ChevronDownIcon" size={14} /> Show all {filtered.length} publications</>
+                      <>
+                        <Icon name="ChevronDownIcon" size={14} /> Show all {filtered.length}{' '}
+                        publications
+                      </>
                     )}
                   </button>
                 </div>

@@ -62,8 +62,7 @@ export default function NewsSection() {
               // News
             </span>
             <h2 className="font-display text-section-title font-bold text-foreground">
-              News &{' '}
-              <span className="gradient-text-indigo">Announcements</span>
+              News & <span className="gradient-text-indigo">Announcements</span>
             </h2>
           </div>
           <p className="text-muted-foreground leading-relaxed">
@@ -87,7 +86,9 @@ export default function NewsSection() {
                 >
                   <div className="flex items-start justify-between gap-4 mb-4">
                     <div className="flex items-center gap-3">
-                      <span className={`px-2.5 py-1 rounded-full text-xs font-bold border ${categoryColors[item.category] ?? ''}`}>
+                      <span
+                        className={`px-2.5 py-1 rounded-full text-xs font-bold border ${categoryColors[item.category] ?? ''}`}
+                      >
                         {item.category}
                       </span>
                       <span className="flex items-center gap-1.5 text-xs font-bold text-accent">
@@ -129,7 +130,9 @@ export default function NewsSection() {
                     }`}
                   >
                     <div className="flex items-center gap-2 mb-2">
-                      <span className={`px-2 py-0.5 rounded-full text-xs font-bold border ${categoryColors[item.category] ?? ''}`}>
+                      <span
+                        className={`px-2 py-0.5 rounded-full text-xs font-bold border ${categoryColors[item.category] ?? ''}`}
+                      >
                         {item.category}
                       </span>
                       <span className="text-xs text-muted-foreground">{item.date}</span>
